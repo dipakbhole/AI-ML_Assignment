@@ -60,6 +60,13 @@ Start the Flask API:
 
  - Test the API using curl or Postman
 
+ - Using Postman
+   - Open Postman.
+   - Select POST method.
+   - Enter http://127.0.0.1:5000/chat in the URL bar.
+   - Go to the Body tab → Select raw → Choose JSON.
+
+
 # 🚀 Deployment Instructions
 
 🔹 Deploy with Render
